@@ -40,6 +40,9 @@ body {
     --background-end-rgb: 0, 0, 0;
   }
 }
+.MuiPickersCalendarHeader-root .css-nk89i7-MuiPickersCalendarHeader-root{
+  direction:"ltr" !important;
+}
 
 body {
   color: rgb(var(--foreground-rgb));

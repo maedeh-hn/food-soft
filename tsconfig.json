@@ -15,8 +15,9 @@
     "incremental": true,
     "paths": {
       "@/*": ["./*"]
-    }
+    },
+
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/customerInvoice/index.jsx"],
   "exclude": ["node_modules"]
 }
